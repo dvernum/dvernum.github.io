@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/live_mixing/hhb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/albums/hhb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/albums/profits-of-tomorrow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/albums/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/artist_development/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/albums/dbrouse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/live_mixing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/instrumental_samples/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/rates/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/audio_production/studio_recording_mixing/</loc>
+  </url>
+  
+</urlset>
