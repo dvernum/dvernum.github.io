@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>albums on DVM</title>
-    <link>http://example.org/audio_production/studio_recording_mixing/albums/</link>
+    <link>https://dvernum.github.io/audio_production/studio_recording_mixing/albums/</link>
     <description>Recent content in albums on DVM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/audio_production/studio_recording_mixing/albums/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dvernum.github.io/audio_production/studio_recording_mixing/albums/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
