@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mixing on DVM</title>
-    <link>https://dvernum.github.io/audio_production/studio_recording_mixing/instrumental_samples/</link>
+    <link>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/instrumental_samples/</link>
     <description>Recent content in mixing on DVM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dvernum.github.io/audio_production/studio_recording_mixing/instrumental_samples/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/instrumental_samples/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
