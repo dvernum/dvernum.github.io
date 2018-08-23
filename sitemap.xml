@@ -7,7 +7,7 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/about/who_is_drd/</loc>
+    <loc>https://daringventuresmultimedia.com/about/about_drd/who_is_drd/</loc>
   </url>
   
   <url>
@@ -22,6 +22,10 @@
   <url>
     <loc>https://daringventuresmultimedia.com/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daringventuresmultimedia.com/about/about_drd/</loc>
   </url>
   
   <url>
@@ -42,7 +46,7 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/about/testimonials/</loc>
+    <loc>https://daringventuresmultimedia.com/about/about_drd/testimonials/</loc>
   </url>
   
   <url>
@@ -67,6 +71,10 @@
   
   <url>
     <loc>https://daringventuresmultimedia.com/audio_production/rates/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daringventuresmultimedia.com/audio_production/soundtracks--sound-design/</loc>
   </url>
   
   <url>
