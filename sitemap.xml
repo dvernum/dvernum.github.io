@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://daringventuresmultimedia.com/artist_development/</loc>
+  </url>
+  
+  <url>
     <loc>https://daringventuresmultimedia.com/audio_production/</loc>
   </url>
   
@@ -29,15 +33,15 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/live_mixing/hhb/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/soundboard/hhb/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/hhb/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/hhb/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/joe_hauck/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/joe_hauck/</loc>
   </url>
   
   <url>
@@ -45,7 +49,7 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/mala_nota/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/mala_nota/</loc>
   </url>
   
   <url>
@@ -53,11 +57,15 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/profits-of-tomorrow/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/profits-of-tomorrow/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/sense/</loc>
+    <loc>https://daringventuresmultimedia.com/rates/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/sense/</loc>
   </url>
   
   <url>
@@ -70,35 +78,23 @@
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/dbrouse/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/artist_development/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/mixing/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/albums/dbrouse/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/soundboard/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/live_mixing/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/soundtracks/</loc>
   </url>
   
   <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/instrumental_samples/</loc>
-  </url>
-  
-  <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/rates/</loc>
-  </url>
-  
-  <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/soundtracks--sound-design/</loc>
-  </url>
-  
-  <url>
-    <loc>https://daringventuresmultimedia.com/audio_production/studio_recording_mixing/</loc>
+    <loc>https://daringventuresmultimedia.com/audio_production/studio/</loc>
   </url>
   
 </urlset>
